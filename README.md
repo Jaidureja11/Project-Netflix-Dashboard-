@@ -45,12 +45,6 @@ This dashboard improved **data-driven decision-making by 35%** within content st
 
 ---
 
-## 📷 Screenshots
-
-> *(Insert Tableau dashboard screenshots here for better visibility)*
-
----
-
 ## 🧠 Future Enhancements
 
 - Integrate real-time data pipelines for up-to-date analytics  
