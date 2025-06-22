@@ -45,8 +45,17 @@ This dashboard improved **data-driven decision-making by 35%** within content st
 
 ---
 
+
 ## 🧠 Future Enhancements
 
 - Integrate real-time data pipelines for up-to-date analytics  
 - Add prediction models using Python and Tableau extensions  
 - Incorporate user segmentation based on viewing history 
+
+---
+
+## Dashboard Preview
+
+Here’s a snapshot of the Netflix Dashboard:
+![Dashboard_preview png](https://github.com/user-attachments/assets/1c8fced9-072c-4e7f-b4c5-91c605716ff3)
+
